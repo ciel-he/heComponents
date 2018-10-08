@@ -1,1 +1,1 @@
-viewimg�ļ������ǵ���
+viewimg 文件夹存放的是弹窗，mask和myDailog是蒙层和抽取的弹窗组件，加了动画效果好看点
